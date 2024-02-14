@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 lab exercise",
   "main": "index.js",
-"homepage":"https://vrutti1954.github.io/COMP2156-LABS/",
+"homepage":"https://vrutti1954.github.io/COMP2156-LABS/"
   "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
